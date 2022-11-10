@@ -1,3 +1,3 @@
-# Storefront -- Lab 38
+# Storefront -- Lab 9
 
-## Phase 3 Requirements
+## Phase 4 Requirements
